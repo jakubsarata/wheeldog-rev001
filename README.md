@@ -18,6 +18,7 @@ Originally developed as part of a master's thesis at the **AGH University of Sci
 - **Adaptive Configuration**: The body features three degrees of freedom, allowing for movement akin to natural creatures like lizards.
 - **Omnidirectional Wheels**: Enables maneuverability in tight spaces and precise movement control.
 - **Simulation and Real-World Testing**: Verified through MATLAB simulations and physical prototyping.
+- **Simulink Model**: A simulation model of the platform is available in MATLAB/Simulink R2022b using the Simscape Multibody toolbox.
 - **Expandable and Modular**: Designed with 3D printing and modular assembly in mind, allowing for modifications and improvements.
 
 ## System Components
